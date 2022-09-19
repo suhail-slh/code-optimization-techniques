@@ -1,0 +1,17 @@
+a = 4;
+b = 5;
+c = 78;
+d = a*b+c-10;
+e = c+b*a-10;
+z=1+e;
+k=9;
+if d>c:
+	{z=z+e}
+if a==b:
+	{print z}
+if (a*b)==20:
+	{gg=99}
+if a*b+2 != a+b:
+	{print a+b}
+k=k/(3+z+1)+(2+(a/b));
+print k;
